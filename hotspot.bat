@@ -1,1 +1,1 @@
-powershell "C:\Users\Silver\Documents\Hotspot.ps1"
+powershell "path to the .ps1 file, for example <C:\Users\Mizutsuru\Documents\>"
