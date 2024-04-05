@@ -1,0 +1,1 @@
+powershell "C:\Users\Silver\Documents\Hotspot.ps1"
